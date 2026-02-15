@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.cache
+
+# Node
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# React
+task-management-frontend/node_modules/
+task-management-frontend/build/
+task-management-frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
